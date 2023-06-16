@@ -1,4 +1,6 @@
-#define SMALL 50
+#include <limits.h>
+
+#define SMALL 10
 
 #define MEDIUM 500
 
