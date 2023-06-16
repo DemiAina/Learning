@@ -1,3 +1,6 @@
+#include <ctime>
+#include <cstdlib>
+#include <cmath>
 #include <iostream>
 
 namespace Random{
